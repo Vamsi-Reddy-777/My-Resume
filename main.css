@@ -1,0 +1,17 @@
+.container{
+    text-align: center;
+    width: 1200px;
+    margin: 50px;
+    position: relative;
+    left: 5%;
+    border: 2px solid black;
+}
+
+.Education{
+    text-align: left;
+    position: relative;
+    font-size: 17px;
+    left:10%;
+    margin: 50px;
+    width:900px;
+}
